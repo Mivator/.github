@@ -1,8 +1,8 @@
 <h3 align="center">Mivator Orgs</h3>
 
-<p align="left">• Mivator | Main Bot: <a href= "https://github.com/Mivator/Mivator">Mivator</a></p>
-<p align="left">• Mivator | App Bot: <a href= "https://github.com/Mivator/Mivator-Applications-Bot">Mivator-Applications-Bot</a></p>
-<p align="left">• Mivator | Task Bot: <a href= "https://github.com/Mivator/Mivator-Task-Bot">Mivator-Task-Bot</a></p>
+<p align="center">• Mivator | Main Bot: <a href= "https://github.com/Mivator/Mivator">Mivator</a></p>
+<p align="center">• Mivator | App Bot: <a href= "https://github.com/Mivator/Mivator-Applications-Bot">Mivator-Applications-Bot</a></p>
+<p align="center">• Mivator | Task Bot: <a href= "https://github.com/Mivator/Mivator-Task-Bot">Mivator-Task-Bot</a></p>
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
