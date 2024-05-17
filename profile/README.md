@@ -44,6 +44,7 @@
 
 <h3 align="left">Our Devs:</h3>
 <p align="left">
-  <a href="https://discord.com/users/498094279793704991/"><img src="https://discord.c99.nl/widget/theme-3/498094279793704991.png" /></a>
-  <a href="https://discord.com/users/682983233851228161/"><img src="https://discord.c99.nl/widget/theme-3/682983233851228161.png" /></a>
+  <a href="https://discord.com/users/852242926540029972/"><img src="https://discord.c99.nl/widget/theme-3/852242926540029972.png" /></a><br>
+  <a href="https://discord.com/users/498094279793704991/"><img src="https://discord.c99.nl/widget/theme-3/498094279793704991.png" /></a><br>
+  <a href="https://discord.com/users/682983233851228161/"><img src="https://discord.c99.nl/widget/theme-3/682983233851228161.png" /></a><br>
 </p>
