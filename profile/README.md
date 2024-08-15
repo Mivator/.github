@@ -51,4 +51,5 @@
   <a href="https://discord.com/users/913436454712139787/"><img src="https://discord.c99.nl/widget/theme-3/913436454712139787.png" /></a><br>
   <a href="https://discord.com/users/679560282929889331/"><img src="https://discord.c99.nl/widget/theme-3/679560282929889331.png" /></a><br>
   <a href="https://discord.com/users/1139406664584409159/"><img src="https://discord.c99.nl/widget/theme-3/1139406664584409159.png" /></a><br>
+  <a href="https://discord.com/users/224540615679934466/"><img src="https://discord.c99.nl/widget/theme-3/224540615679934466.png" /></a><br>
 </p>
