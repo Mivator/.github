@@ -53,5 +53,9 @@
   <a href="https://discord.com/users/1139406664584409159/"><img src="https://discord.c99.nl/widget/theme-3/1139406664584409159.png" /></a><br>
   <a href="https://discord.com/users/224540615679934466/"><img src="https://discord.c99.nl/widget/theme-3/224540615679934466.png" /></a><br>
 
+  <a href="https://discord.com/users/224540615679934466/"><img src="https://profilecards.mivator.com/api/user/852242926540029972/YmFja2dyb3VuZD1zb2xpZCZjYXJkSGVpZ2h0PTIwMCZjYXJkV2lkdGg9NzAwJnRoZW1lPWRpc2NvcmQ.png" alt="user card Dev2" /></a><br>
+  
+  <a href="https://discord.com/users/224540615679934466/"><img src="https://profilecards.mivator.com/api/user/852242926540029972/YmFja2dyb3VuZD1zb2xpZCZjYXJkSGVpZ2h0PTIwMCZjYXJkV2lkdGg9NzAwJnRoZW1lPXRyYW5zcGFyZW50LXdoaXRl.png" alt="user card Dev1" /></a><br>
+
   <a href="https://discord.com/users/852242926540029972/"><img src="[https://discord.c99.nl/widget/theme-3/852242926540029972.png](https://profilecards.mivator.com/api/user/852242926540029972.png?theme=dark&background=solid&cardWidth=700&cardHeight=200)" /></a><br>
 </p>
